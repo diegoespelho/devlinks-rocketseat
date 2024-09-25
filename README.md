@@ -1,15 +1,14 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">DevLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://app.rocketseat.com.br/journey/discover/overview">Estude esse projeto em formato de vídeo clicando aqui.</a>
+Projeto desenvolvido durante a trilha Discover oferecido de forma gratuita pela Rocketseat.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -19,34 +18,26 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github)](https://skillicons.dev)
 
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://diegoespelho.github.io/discover-rocketseat)
-
-- [Assistir aulas](https://app.rocketseat.com.br/journey/discover/overview)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/discover-rocketseat/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O layout desse projeto foi entregue pela própria Rocketseat.
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
----
-
-Feito com ♥ by Rocketseat 🌊 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
