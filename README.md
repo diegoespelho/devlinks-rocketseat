@@ -1,7 +1,7 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Projeto desenvolvido durante a trilha Discover oferecido de forma gratuita pela Rocketseat.
+Projeto desenvolvido durante a trilha Discover oferecida de forma gratuita pela Rocketseat.
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@ Projeto desenvolvido durante a trilha Discover oferecido de forma gratuita pela 
   <img alt="DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github)](https://skillicons.dev)
 
@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/discover-rocketseat/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/devlinks/)
 
 ## 🔖 Layout
 
-O layout desse projeto foi entregue pela própria Rocketseat.
+O layout desse projeto foi entregue pela Rocketseat.
 
 ## 📝 Licença
 
