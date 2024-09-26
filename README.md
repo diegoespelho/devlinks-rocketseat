@@ -1,7 +1,7 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Projeto desenvolvido durante a trilha Discover oferecido de forma gratuita pela Rocketseat.
+Projeto desenvolvido durante a trilha Discover oferecida de forma gratuita pela Rocketseat.
 </p>
 
 <p align="center">
