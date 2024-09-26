@@ -21,9 +21,9 @@ Projeto desenvolvido durante a trilha Discover oferecido de forma gratuita pela 
   <img alt="DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,github)](https://skillicons.dev)
 
@@ -35,7 +35,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-O layout desse projeto foi entregue pela própria Rocketseat.
+O layout desse projeto foi entregue pela Rocketseat.
 
 ## 📝 Licença
 
