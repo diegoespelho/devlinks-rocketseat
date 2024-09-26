@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/discover-rocketseat/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/devlinks/)
 
 ## 🔖 Layout
 
